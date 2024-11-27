@@ -8,6 +8,6 @@ A plataforma web desenvolvida tem como objetivo oferecer suporte acessível para
 A configuração inicial do Equilibrio é prática, mas é essencial assegurar que os requisitos mínimos sejam atendidos para evitar problemas. Verifique se você está utilizando uma versão compatível ou superior às especificadas abaixo.
 
 # Pré requisitos
-| HTML     | CSS      | Bootstrap      | JavaScript      | PHP      | Xampp     |
-|---------------|---------------|---------------|---------------|---------------|---------------|
-| HTML5  | CSS3  | 5.3  | 1.8  | 8.1.25	  |	8.1.25	  |
+| HTML     | CSS      | Bootstrap     | PHP      | Xampp     |
+|---------------|---------------|---------------|---------------|---------------|
+| HTML5  | CSS3  | 5.3  | 8.1.25	  |	8.1.25	  |
