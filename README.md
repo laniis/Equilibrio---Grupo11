@@ -5,3 +5,4 @@
 A plataforma desenvolvida tem como objetivo oferecer suporte acessível para pessoas com transtornos de Bipolaridade, promovendo autocuidado e bem-estar. O guia virtual criado preencheu uma lacuna significativa, ajudando na gestão emocional e na educação sobre saúde mental. Contando com uma interface intuitiva e inclusiva, para que possa ampliar seu impacto positivo e alcançar mais pessoas.
 
 # Preparação para o inicio do projeto
+A configuração inicial do Equilibrio é prática, mas é essencial assegurar que os requisitos mínimos sejam atendidos para evitar problemas. Verifique se você está utilizando uma versão compatível ou superior às especificadas abaixo.
