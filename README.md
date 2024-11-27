@@ -35,11 +35,13 @@ A configuração inicial do Equilibrio é prática, mas é essencial assegurar q
 Para usar todas as funcionalidades do site, você precisa estar logado. Caso ainda não tenha uma conta:
 
 1. Clique no botão Login.
+   
    ° Escolha a opção Criar Conta, preencha os dados.
    
    ° Após o login, você terá acesso total às funcionalidades do site.
 
 2. Caso queira acessar a aréa do administrador use:
+   
    ° Login - Administrador@gmail.com
    
    ° Senha - 1212
