@@ -9,5 +9,5 @@ A configuração inicial do Equilibrio é prática, mas é essencial assegurar q
 
 # Pré requisitos
 | HTML     | CSS      | Bootstrap      | JavaScript      | PHP      | Xampp     |
-|---------------|---------------|---------------|---------------|---------------|
+|---------------|---------------|---------------|---------------|---------------|---------------|
 | HTML5  | CSS3  | 5.3  | 1.8  | 8.1.25	  |	8.1.25	  |
