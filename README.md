@@ -42,10 +42,11 @@ Para usar todas as funcionalidades do site, você precisa estar logado. Caso ain
 
 2. Caso queira acessar a aréa do administrador use:
    
-   ° Login - Administrador@gmail.com
+   ° Login - `Administrador@gmail.com`
    
-   ° Senha - 1212
+   ° Senha - `1212`
    
    ° ele funcionará apenas para gerenciamento de conteúdos.
 
-
+# Autores
+| Alanis Castro Brasões     | Alana Micaela Nascimento da silva      | Ryciery Barbosa Lima Ferreira     | 
