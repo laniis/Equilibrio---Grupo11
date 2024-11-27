@@ -16,9 +16,9 @@ A configuração inicial do Equilibrio é prática, mas é essencial assegurar q
 1. Inicie o XAMPP e ative o servidor Apache e o banco de dados MySQL.
 2. Escolha a opção de criar novo banco de dados:
    
-   ° escreva o nome do nosso arquivo *Equilibrio* .
+   ° escreva o nome do nosso arquivo `Equilibrio` .
    
-   ° Use o phpMyAdmin para importar o arquivo *Equilibrio* .
+   ° Use o phpMyAdmin para importar o arquivo `Equilibrio` .
    
 3. Adcione o arquivo baixado a pasta htdocs:
    
@@ -28,6 +28,22 @@ A configuração inicial do Equilibrio é prática, mas é essencial assegurar q
    
    ° Digite `http://localhost/equilibrio no navegador`.
    
-Você verá a seguinte tela inicial:
+# Você verá a seguinte tela inicial:
 ![image](https://github.com/user-attachments/assets/99c60308-208c-4851-b474-ed2f1225a8ee)
+
+# Criando uma conta
+Para usar todas as funcionalidades do site, você precisa estar logado. Caso ainda não tenha uma conta:
+
+1. Clique no botão Login.
+   ° Escolha a opção Criar Conta, preencha os dados.
+   
+   ° Após o login, você terá acesso total às funcionalidades do site.
+
+2. Caso queira acessar a aréa do administrador use:
+   ° Login - Administrador@gmail.com
+   
+   ° Senha - 1212
+   
+   ° ele funcionará apenas para gerenciamento de conteúdos.
+
 
