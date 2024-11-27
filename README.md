@@ -15,11 +15,17 @@ A configuração inicial do Equilibrio é prática, mas é essencial assegurar q
 # Dando inicio no projeto
 1. Inicie o XAMPP e ative o servidor Apache e o banco de dados MySQL.
 2. Importe o banco de dados:
+   
    ° O arquivo do banco de dados está disponível no repositório.
+   
    ° Use o phpMyAdmin para importar o arquivo.
+   
 3. Mova o repositório para a pasta htdocs:
+   
    ° Coloque a pasta clonada em C:\xampp\htdocs.
+   
 4. Abra o navegador e acesse o projeto:
+   
    ° Digite http://localhost/Equilibrio no navegador.
    
 Você verá a seguinte tela inicial:
