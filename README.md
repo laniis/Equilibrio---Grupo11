@@ -22,11 +22,11 @@ A configuração inicial do Equilibrio é prática, mas é essencial assegurar q
    
 3. Adcione o arquivo baixado a pasta htdocs:
    
-   ° Coloque na pasta C:\xampp\htdocs.
+   ° Coloque na pasta `C:\xampp\htdocs`.
    
 4. Abra o navegador e acesse o projeto:
    
-   ° Digite http://localhost/Equilibrio no navegador.
+   ° Digite http://localhost/equilibrio no navegador.
    
 Você verá a seguinte tela inicial:
 ![image](https://github.com/user-attachments/assets/99c60308-208c-4851-b474-ed2f1225a8ee)
