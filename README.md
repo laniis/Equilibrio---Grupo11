@@ -9,12 +9,12 @@ A plataforma web desenvolvida tem como objetivo oferecer suporte acessível para
 # Preparação para o inicio do projeto
 A configuração inicial do Equilibrio é prática, mas é essencial assegurar que os requisitos mínimos sejam atendidos para evitar problemas. Verifique se você está utilizando uma versão compatível ou superior às especificadas abaixo.
 
-# Pré requisitos
+# Pré requisitos ✅
 | HTML     | CSS      | Bootstrap     | PHP      | Xampp     |
 |---------------|---------------|---------------|---------------|---------------|
 | HTML5  | CSS3  | 5.3  | 8.1.25	  |	8.1.25	  |
 
-# Dando inicio no projeto
+# Dando inicio no projeto 
 1. Inicie o XAMPP e ative o servidor Apache e o banco de dados MySQL.
 2. Escolha a opção de criar novo banco de dados:
    
@@ -22,11 +22,11 @@ A configuração inicial do Equilibrio é prática, mas é essencial assegurar q
    
    ° Use o phpMyAdmin para importar o arquivo `Equilibrio` .
    
-3. Adcione o arquivo baixado a pasta htdocs:
+3. Adcione o arquivo baixado a pasta htdocs: 📁
    
    ° Coloque na pasta `C:\xampp\htdocs`.
    
-4. Abra o navegador e acesse o projeto:
+4. Abra o navegador e acesse o projeto: 🌐
    
    ° Digite `http://localhost/equilibrio no navegador`.
    
@@ -50,7 +50,7 @@ Para usar todas as funcionalidades do site, você precisa estar logado. Caso ain
    
    ° ele funcionará apenas para gerenciamento de conteúdos.
 
-# Autores
+# Autores 🧑‍🤝‍🧑
 | Alanis Castro Brasões     | Alana Micaela Nascimento da silva      | Ryciery Barbosa Lima Ferreira     | 
 |---------------|---------------|---------------|
 
