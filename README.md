@@ -1,5 +1,6 @@
 # Guia para auxiliar no bem-estar psicológico de pessoas com transtorno de bipolaridade
-![image](https://github.com/user-attachments/assets/68edadaa-ee6a-4859-8f7d-2aac65b25140)
+![image](https://github.com/user-attachments/assets/c3005fa4-e1a4-4380-8d65-9f1c7a190a25)
+
 
 
 # Sobre
