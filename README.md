@@ -53,7 +53,7 @@ Para usar todas as funcionalidades do site, você precisa estar logado. Caso ain
 # Funcões
 O nosso projeto conta com uma diversidade de interações, trazendo a autoajuda de uma maneira pratica e rapida! contando com registro de humor e diversas praticas de autoajuda.
 
-# Como nossas telas de `autoajuda` e `registro de humor` abaixo:
+# Como as telas abaixo:
 
 ![image](https://github.com/user-attachments/assets/c7c4aaeb-8f4f-49c5-bd1f-a52cd42b1a3d)
 
