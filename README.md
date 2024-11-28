@@ -50,6 +50,18 @@ Para usar todas as funcionalidades do site, você precisa estar logado. Caso ain
    
    ° ele funcionará apenas para gerenciamento de conteúdos.
 
+# Funcões
+O nosso projeto conta com uma diversidade de interações, trazendo a autoajuda de uma maneira pratica e rapida! contando com registro de humor e diversas praticas de autoajuda.
+
+algumas amostras do nosso diferencial abaixo:
+![image](https://github.com/user-attachments/assets/c7c4aaeb-8f4f-49c5-bd1f-a52cd42b1a3d)
+
+![image](https://github.com/user-attachments/assets/83a96e2f-3937-4936-bb41-8f98e7b096df)
+
+
+
+
+
 # Autores 🧑‍🤝‍🧑
 | Alanis Castro Brasões     | Alana Micaela Nascimento da silva      | Ryciery Barbosa Lima Ferreira     | 
 |---------------|---------------|---------------|
